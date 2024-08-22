@@ -1,1 +1,1 @@
-# :coffee: trilha-java-basico :coffee:
+# :hotsprings: trilha-java-basico :hotsprings:
